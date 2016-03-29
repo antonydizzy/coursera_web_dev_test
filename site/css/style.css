@@ -85,7 +85,6 @@
   }
 }
 
-
 * {
   box-sizing: border-box;
 }
@@ -147,8 +146,7 @@ h2 {
   width: 100%;
     min-height: 170px;
     margin-top: 3px;
-    text-align: justify;
-    
+    text-align: justify;   
 }
 
 .section2 {
