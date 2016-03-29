@@ -112,7 +112,7 @@ h2 {
   position: relative;
   float: right;
   margin-top: 0px;
-  background-color: violet;
+  background-color: #aa90e8;
   border: 1px solid black;
   width: 30%;
 }
@@ -121,7 +121,7 @@ h2 {
   position: relative;
   float: right;
   margin-top: 0px;
-  background-color: mauve;
+  background-color: #35ca39;
   border: 1px solid black;
   width: 30%;
 }
@@ -130,7 +130,7 @@ h2 {
   position: relative;
   float: right;
   margin-top: 0px;
-  background-color: purple;
+  background-color: #eaa16f;
   border: 1px solid black;
   width: 30%;
 }
